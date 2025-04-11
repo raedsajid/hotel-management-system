@@ -1,5 +1,4 @@
-# Nexus Node
-# (Hotel Management System)
+# Nexus Node (Hotel Management System)
 
 ## Description
 The **Hotel Management System** is a desktop-based Java application built using JavaFX. It provides a comprehensive solution to manage hotel operations including room reservations, check-ins, check-outs, billing, and customer information. The system features a user-friendly interface and connects to a MySQL database for persistent storage of data.
