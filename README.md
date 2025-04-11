@@ -1,2 +1,2 @@
-# hotel-management-system
-A desktop-based hotel management system built in Java using JavaFX and MySQL.
+# SDA-Project
+Hotel Management System by i220968 M. Raed Sajid and i228810 Gulzar Amin
